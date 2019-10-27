@@ -1,0 +1,9 @@
+﻿<Application x:Class="第四章_页眉页脚_章节_区域和绘图对象.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:第四章_页眉页脚_章节_区域和绘图对象"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
