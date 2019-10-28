@@ -45,7 +45,7 @@ namespace 第六章_图片 {
             //路径
             Image image2 = Image.GetInstance("11.jpg");  //图片放在/bin/debug下
             image2.ScaleToFit(document.PageSize); //缩放图片
-            Chunk chunk=new Chunk(image2,);
+            //Chunk chunk=new Chunk(image2,);
             
             document.Add(image2);
             
